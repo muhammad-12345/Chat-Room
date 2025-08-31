@@ -1,0 +1,12 @@
+{
+  "name": "@chat-room/config",
+  "version": "1.0.0",
+  "description": "Shared configuration for chat room application",
+  "private": true,
+  "main": "./index.js",
+  "files": [
+    "tsconfig-base.json",
+    "eslint-base.js",
+    "prettier.config.js"
+  ]
+}
