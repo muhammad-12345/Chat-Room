@@ -1,7 +1,4 @@
 import { z } from 'zod'
-import type { User, PublicUser } from './user'
-import type { Room, PublicRoom } from './room'
-import type { Message, MessageWithUser } from './message'
 
 // Generic API Response
 export const ApiResponseSchema = z.object({
